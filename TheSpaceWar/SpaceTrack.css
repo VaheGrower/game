@@ -1,0 +1,26 @@
+
+
+*{  
+    background: url("https://www.wallpaperbetter.com/wallpaper/183/3/741/space-war-hd-1080P-wallpaper.jpg")  center center  no-repeat fixed;
+}
+
+.header {
+  
+
+    position: relative; 
+    text-transform: uppercase;
+    letter-spacing: 2.8px;
+    font-weight: bolder;
+    font-size: 30px;
+    color: yellow;
+    font-style: bold;
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+}
+
+canvas {
+    border:1px  dotted rgb(255, 230, 90);
+    position: fixed;
+    top: 100px;
+    left: 37%;
+}
